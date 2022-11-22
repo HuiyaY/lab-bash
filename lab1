@@ -1,0 +1,178 @@
+Last login: Mon Nov 21 20:47:39 on ttys001
+cd
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) yingyingyhysMBP:IronPhilipp yingyingyhy$ cd
+(base) yingyingyhysMBP:~ yingyingyhy$ cd
+(base) yingyingyhysMBP:~ yingyingyhy$ echo 'hello world'
+hello world
+(base) yingyingyhysMBP:~ yingyingyhy$ mkdir new_dir
+(base) yingyingyhysMBP:~ yingyingyhy$ rmdir new_dir
+(base) yingyingyhysMBP:~ yingyingyhy$ cp sed.txt lorem_copy
+cp: sed.txt: No such file or directory
+(base) yingyingyhysMBP:~ yingyingyhy$ cp sed.txt lorem-copy
+cp: sed.txt: No such file or directory
+(base) yingyingyhysMBP:~ yingyingyhy$ cp sed.txt lorem-copy
+cp: sed.txt: No such file or directory
+(base) yingyingyhysMBP:~ yingyingyhy$ cp{at.txt,lorem.txt} /Users/
+-bash: cpat.txt: command not found
+(base) yingyingyhysMBP:~ yingyingyhy$ cp sed.txt lorem-copy
+cp: sed.txt: No such file or directory
+(base) yingyingyhysMBP:~ yingyingyhy$ ls
+Applications		Library			Public
+Creative Cloud Files	Movies			PycharmProjects
+Desktop			Music			javasharedresources
+Documents		Nextcloud		opt
+Downloads		Pictures
+(base) yingyingyhysMBP:~ yingyingyhy$ cd Desktop
+(base) yingyingyhysMBP:Desktop yingyingyhy$ ls
+Absage
+Aufenthaltstitel
+Ausbildungv1.docx
+Bestätigung der Bildungseinrichtung zur Vorlage bei der Ausländerbehörde.pdf
+CRM Data Analyst (m_w_d) - Job bei MW PARTS GmbH in Oyten.pdf
+Case study-v2.pptx
+Copy of excel_sample_data.xlsx
+Data Analyst (m_f_d) Brand Marketing - Job bei StepStone GmbH in Hamburg.pdf
+Data Analyst - Business Intelligence (m_w_d) - Job bei About You SE & Co. KG in Hamburg.pdf
+Dienstkarte.xlsx
+Discord.app
+EBS Case
+Group7_MultiSided_LUBU (5) copy.pptx
+Huiya Schmidt - RMTEU-DA-FT-(2022-11-21)-EN-Study Agreement.pdf
+Huiya Yu Project Paper.docx
+Huiya Yu Project Paper.pdf
+Huiya Yu_CV_2022 .docx
+Huiya Yu_CV_2022 .pdf
+Huiya Yu_CV_2022-DE.docx
+Huiya Yu_motivation letter_2022.pdf
+Huiya.Yu_2021_Q&A 0.3 copy.docx
+Huiya.Yu_2021_Q&A DE.docx
+IKO361370060_auth_letter.pdf
+IRONHACK
+Lab2
+My EndNote Library.Data
+Projektmanager_Data Scientist_Business Analyst (w_m_d) - Job bei Drees & Sommer SE in Leipzig, Erfurt, Magdeburg, Dresden.pdf
+Python+Syntax+Cheat+Sheet+Booklet.pdf
+Q&A.docx
+Samsung
+Screenshot 2022-10-27 at 20.30.01.png
+Screenshot 2022-11-18 at 18.06.49.png
+StudentLifeGermany
+Studienbescheinigung Yu ST22.pdf
+Transcript of records.pdf
+adressanderung.pdf
+interview.docx
+lea德语
+motivation letter & reference letter.pdf
+reference letter & certificates.pdf
+reference letter.pdf
+wedding picture
+~$ and ethics.docx
+~$ life&sciences.docx
+~$ 对老年人健康状况的监测.docx
+~$.YuHuiya:english.docx
+~$.YuHuiya:中文的副本.docx
+~$.YuHuiyafinal英语.docx
+~$20ST_MSc_QRM_Take home exam_Coding_final.docx
+~$CP_2022_23_20.pptx
+~$Compare & Contrast Two Term-sheets.pptx
+~$Copy of Forbes Global 2000 - 2019(1).xlsx
+~$Copy of excel_sample_data.xlsx
+~$Doc1.docx
+~$Exemplary Solution Coding Exercise Benchmarking.pptx
+~$Forbes Global 2000 - 2019.xlsx
+~$Group7_MultiSided_LUBU (5) copy.pptx
+~$Group7_MultiSided_LUBU copy.pptx
+~$Introduction.pptx
+~$M_MAXQDA_Coding Exercise.docx
+~$Marketing Consulting Fieldtrip-- Amazon 1.pptx
+~$Presentation4 [Auto-saved].pptx
+~$Presentation4.pptx
+~$Sure_CV_2020.docx
+~$ai.pptx
+~$alando.docx
+~$alth in Germany.docx
+~$amazon.docx
+~$boarding.docx
+~$certainty.docx
+~$deyu.pptx
+~$dical device cluster.docx
+~$hibitions list 2021.docx
+~$hmidt_Bewerbung_format.doc
+~$ibianziji.docx
+~$ica Microsystem.docx
+~$itical Analysis of Organizational Planning Process.docx
+~$itical Analysis of Organizational Structure.docx
+~$iya Yu_CV2022-DE.docx
+~$iya Yu_CV_2021_v3.0.docx
+~$iya Yu_motivation letter_2021_ 0.4 copy.doc
+~$iya Yu_motivation letter_2021_.doc
+~$kulture.pptx
+~$litical Factors.docx
+~$nkedin templete 2..docx
+~$nkedin templete 2.0.docx
+~$oDesk的首席执行官根据您之前的分析获得了有关公司内部流程的新见解.docx
+~$ssertation Proposal Revised(1).docx
+~$terview 5.docx
+~$tesla.docx
+~$ver letter.docx
+~$产品的锁定效应.docx
+~$人工智能.pptx
+~$关 打印皮卡丘.docx
+~$医疗.docx
+~$工作簿1.xlsx
+~$敏捷.docx
+~$第四课.docx
+~$草稿.docx
+德语搭配.docx
+报税
+桌面?
+申请文件
+签证
+走遍德国C1.pdf
+(base) yingyingyhysMBP:Desktop yingyingyhy$ cd IRONHACK
+(base) yingyingyhysMBP:IRONHACK yingyingyhy$ ls
+Hello_World.txt	IronHuiya	about.txt	lab1.txt
+Huiya.txt	IronPhilipp	lab-bash
+(base) yingyingyhysMBP:IRONHACK yingyingyhy$ cp at.txt lorem-copy
+cp: at.txt: No such file or directory
+(base) yingyingyhysMBP:IRONHACK yingyingyhy$ cp sed.txt lorem-copy
+cp: sed.txt: No such file or directory
+(base) yingyingyhysMBP:IRONHACK yingyingyhy$ cd lab-bash
+(base) yingyingyhysMBP:lab-bash yingyingyhy$ cp sed.txt lorem-copy
+cp: sed.txt: No such file or directory
+(base) yingyingyhysMBP:lab-bash yingyingyhy$ cd lorem
+(base) yingyingyhysMBP:lorem yingyingyhy$ cp sed.txt lorem-copy
+(base) yingyingyhysMBP:lorem yingyingyhy$ cp {at.txt,lorem.txt} /Users/Anna/IH-Labs/lab-bash/lorem-copy
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file ... target_directory
+(base) yingyingyhysMBP:lorem yingyingyhy$ cp {at.txt,lorem.txt} /Users/yingyingyhy/IRONHACK/lab-bash/lorem-copy
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file ... target_directory
+(base) yingyingyhysMBP:lorem yingyingyhy$ cat sed.txt
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
+sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, 
+sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, 
+nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
+vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?Homo homini lupus
+(base) yingyingyhysMBP:lorem yingyingyhy$ lorem-copy % head -3 sed.txt
+-bash: lorem-copy: command not found
+(base) yingyingyhysMBP:lorem yingyingyhy$ lorem-copy % head -3 sed.txt
+-bash: lorem-copy: command not found
+(base) yingyingyhysMBP:lorem yingyingyhy$ ls
+at.txt		at.txte		lorem-copy	lorem.txt	sed.txt
+(base) yingyingyhysMBP:lorem yingyingyhy$ lorem-copy %tail -3 sed.txt
+-bash: lorem-copy: command not found
+(base) yingyingyhysMBP:lorem yingyingyhy$ lorem-copy % tail -3 sed.txt
+-bash: lorem-copy: command not found
+(base) yingyingyhysMBP:lorem yingyingyhy$ lorem-copy % echo 'Homo homini lupus.' >> sed.txt
+-bash: lorem-copy: command not found
+(base) yingyingyhysMBP:lorem yingyingyhy$ lorem-copy % echo 'Homo homini lupus.' >> sed.txt
+-bash: lorem-copy: command not found
+(base) yingyingyhysMBP:lorem yingyingyhy$ 
